@@ -1,0 +1,64 @@
+.mainbox{
+    background-color:dimgrey;
+    width: 1000px;
+    margin: 0px auto;
+}
+.menu{
+    background-color: dimgrey;
+}
+.leftside{
+    background-color:darkgrey;
+    width: 100px;
+    float: left;
+}
+
+.main{
+    background-color: white;
+    width: 800px;
+    float: left;
+}
+
+.rightside{
+    background-color: darkgrey;
+    width: 100px;
+    float: left;
+}
+
+.footer{
+    background-color: dimgrey;
+}
+
+.menu{
+    height: 37px;
+    text-align: center;
+}
+
+.menu>ul>li{
+    display: inline;
+    padding: 10px 10px 10px 10px;
+    background-color:darkgrey;
+    position: relative;
+    top: 8px;
+    font-family: Tahoma, Serif;
+    font-size: 15px;
+
+}
+
+.menu>li>a{
+    text-decoration-color: white;
+    color: #fff;
+}
+
+
+.gallery{
+    max-width: 100px;
+}
+
+.mgallery{
+    text-align: center;
+}
+
+
+@media (min-width: 600px) {
+
+}
