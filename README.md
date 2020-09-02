@@ -4,8 +4,8 @@ Programmatūras prasības:
 
 Programmas instalācija:
 
-Prorammas pielietojums:
+Programmas pielietojums: 
 
-Izmantotā literatūra:
+Izmantotā literatūra: www.estudijas.rvt.lv un dažādas mājaslapas kad googleju pamācības
 
 Viens no piemēriem: https://github.com/RihardsButevics/untitled
