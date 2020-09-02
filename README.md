@@ -10,4 +10,4 @@ Rihards Butevics D4-5
 # Izmantotā literatūra: 
 www.estudijas.rvt.lv un dažādas mājaslapas kad googleju pamācības
 # Viens no piemēriem:
-https://github.com/RihardsButevics/untitled
+https://rihardsbutevics.github.io/untitled/
